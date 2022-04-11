@@ -1,5 +1,7 @@
 #!/bin/bash
 chmod +x alist
+chmod +x v2ray/sbin/v2ray
+chmod +x /home/runner/nginx/sbin/nginx
 
 if [ ! -d "~/nginx" ];then
 	\cp -ax .nginx ~/nginx
