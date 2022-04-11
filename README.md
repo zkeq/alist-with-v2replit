@@ -1,5 +1,5 @@
 
-### 将 alist 伪装成 v2rayng 主页
+### 将 alist 伪装成 v2rayng 主页 请使用 Import from GitHub 部署
 
 ### 原仓库(只有v2ray)部署到 Replit 👉 [![Run on Replit](https://replit.com/badge/github/alanlichen/dpp-on-repl)](https://replit.com/github/sbwml/hello-repl)
 
