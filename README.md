@@ -3,6 +3,9 @@
 
 ### 原仓库部署到 Replit 👉 [![Run on Replit](https://replit.com/badge/github/alanlichen/dpp-on-repl)](https://replit.com/github/sbwml/hello-repl)
 
+演示[DEMO](https://alist.pigpigeon.repl.co)
+指向/vmess 输出 Bad Request
+
 ---------------------
 
 默认信息
